@@ -9,13 +9,24 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-community/datetimepicker": "7.6.1",
+    "dateformat": "^5.0.3",
     "expo": "~50.0.14",
+    "expo-asset": "^9.0.2",
+    "expo-font": "^11.10.3",
+    "expo-splash-screen": "^0.26.4",
     "expo-status-bar": "~1.11.1",
+    "mobx": "^6.12.3",
+    "mobx-react-lite": "^4.0.7",
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-svg": "^15.1.0",
+    "react-native-uuid": "^2.0.2",
+    "react-native-gesture-handler": "~2.14.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
+    "@types/dateformat": "^5.0.2",
     "@types/react": "~18.2.45",
     "typescript": "^5.1.3"
   },
